@@ -1,0 +1,65 @@
+
+#index{
+    width: 25%;
+    
+}
+    
+#szervezes{
+    width: 25%;
+    
+}
+
+#helyek{
+    width: 25%;
+    
+}
+
+#elerhetoseg{
+    width: 25%;
+   
+}
+
+
+.felso_resz{
+    font-size: xxx-large;
+    text-align: center;
+    background-color: #8DA242;
+    width: 25%;
+    font-weight: 500;
+
+}
+
+
+#szöveg1 {
+    width: 50%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+#szöveg2{
+    
+    width: 50%;
+    
+}
+
+
+#asd{
+    font-size: xx-large;
+    font-style: italic;
+    
+}
+#szöveg3{
+    width: 50%;
+    font-size: larger;
+    
+
+}
+#szöveg4{
+    width: 50%;
+    font-size: x-large;
+
+}
+
+#szöveg_címe1{
+    font-size: xx-large;
+    
+}
