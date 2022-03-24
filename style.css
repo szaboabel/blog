@@ -1,65 +1,129 @@
-
+#body {
+    background-color: #A7BC5B;
+}
+.row {
+    width: 100%;
+}
 #index{
     width: 25%;
-    
 }
     
 #szervezes{
     width: 25%;
-    
 }
 
 #helyek{
     width: 25%;
-    
 }
 
 #elerhetoseg{
     width: 25%;
-   
 }
-
 
 .felso_resz{
     font-size: xxx-large;
     text-align: center;
     background-color: #8DA242;
-    width: 25%;
     font-weight: 500;
-
 }
-
 
 #szöveg1 {
     width: 50%;
-    font-family: 'Times New Roman', Times, serif;
     font-size: large;
 }
+
 #szöveg2{
-    
     width: 50%;
-    
+    display: flex;
+    justify-content: center;
 }
 
+#kep1{
+    display: flex;
+    justify-content: center;
+}
 
 #asd{
     font-size: xx-large;
     font-style: italic;
-    
 }
 #szöveg3{
     width: 50%;
     font-size: larger;
-    
-
 }
 #szöveg4{
     width: 50%;
     font-size: x-large;
-
 }
 
 #szöveg_címe1{
     font-size: xx-large;
+}
+
+#szöveg_címe2 {
+    text-align: center;
+}
+
+#kep2 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+#szöveg5 {
+    width: 50%;
+    font-size: xx-large;
+}
+
+#szöveg6 {
+    width: 50%;
+    font-size: xx-large;
+}
+
+#kep3 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+#szöveg7 {
+    width: 33%;
+}
+
+#szöveg8 {
+    width: 33%;
+}
+
+#szöveg9 {
+    width: 33%;
+}
+
+#xd {
+    text-align: center;
+}
+
+#alsó_rész {
+    background-color: #8DA242;
+}
+#szöveg_címe3 {
+    text-align: center;
+}
+
+#szöveg10 {
+width: 50%;
+}
+#szöveg11 {
+width: 50%;
+font-size: xx-large;
+
+}
+
+#szöveg10 h2, h3 {
+    text-align: center;
     
+}
+
+.lista {
+    font-size: xx-large;
+    margin-left: 5cm;
 }
